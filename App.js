@@ -83,7 +83,7 @@ export default function App() {
       <View style={styles.container}>
         <View style={styles.brand}>
           <Image source={logo} style={styles.logo} />
-          <Text style={styles.brandText}>Locatel</Text>
+          <Text style={styles.brandText}>Contador de Visitantes</Text>
         </View>
         <Text style={styles.headerCount}>Visitantes Totales: {Count}</Text>
         <View style={styles.container}>
